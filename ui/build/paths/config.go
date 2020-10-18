@@ -80,6 +80,7 @@ var Configuration = map[string]PathConfig{
 	"dd":      Allowed,
 	"diff":    Allowed,
 	"dlv":     Allowed,
+        "debugfs": Allowed,
 	"expr":    Allowed,
 	"fuser":   Allowed,
 	"getopt":  Allowed,
